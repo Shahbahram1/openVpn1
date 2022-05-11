@@ -1,6 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":
+    {"id":0,"file":"
      setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
@@ -121,8 +121,8 @@ dcf247f57f4316154294d44497a965e1
 1589a51d3d8d7175bba5dd6a5bfaf4a0
 84aba5c9231475c6c5148c20ff47788a
 -----END OpenVPN Static key V1-----
-</tls-auth>
-},
+</tls-auth>"
+    },
      
     ]
 }
